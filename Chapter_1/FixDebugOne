@@ -1,0 +1,14 @@
+public class FixDebug One
+{
+/* This program displays a greeting */
+public static void Main(String args)
+{
+Systm.out.println("Hello World!")
+}
+/*
+
+List down the spotted bugs below:
+ 1. The class name has a space in it. It should be written as one word FixDebugOne. 
+ 2. The main method should be (String[] args) so Java knows it's an array of strings.
+ 3. Typo in Systm, it should be System. 
+ 4. Missing semicolon after the Hello World ("Hello World!"); 
