@@ -12,3 +12,13 @@ List down the spotted bugs below:
  2. The main method should be (String[] args) so Java knows it's an array of strings.
  3. Typo in Systm, it should be System. 
  4. Missing semicolon after the Hello World ("Hello World!"); 
+
+Fixed Bug: 
+public class FixDebugOne 
+{ 
+  /* This program displays a greeting */ 
+  public static void main(String[] args)
+  { 
+     System.out.println ("Hello World!"); 
+  }
+}
